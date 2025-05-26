@@ -2,7 +2,7 @@ git init
 
 git add .
  
-git commit -m "remix2025with0705mui0418 init"
+git commit -m "home tab1~9 about"
 
 git remote add origin https://github.com/goldshoot0720/remix2025with0705mui0418.git
 
