@@ -2,8 +2,8 @@ import type { MetaFunction } from "@remix-run/node";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "remixwithbulma20250705" },
-    { name: "description", content: "Welcome to remixwithbulma20250705." },
+    { title: "remix2025with0705mui0418" },
+    { name: "description", content: "Welcome to remix2025with0705mui0418." },
   ];
 };
 
